@@ -5,7 +5,7 @@ source <(curl -fsSL https://raw.githubusercontent.com/community-scripts/ProxmoxV
 # License: MIT | https://github.com/community-scripts/ProxmoxVE/raw/main/LICENSE
 # Source: https://nextcloudpi.com/
 
-APP="NextCloudPi"
+APP="NextCloud"
 var_tags="${var_tags:-cloud}"
 var_cpu="${var_cpu:-2}"
 var_ram="${var_ram:-2048}"
